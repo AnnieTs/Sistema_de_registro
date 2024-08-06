@@ -3,6 +3,8 @@ Prueba 1 de Sistema de Registro
 
 - Estado del proyecto: 🚧 En Construcción 🚧
 
+⚠️ Para *ejecutar* el sistema debes poner: *** npm react instal ***
+
 Nuestro **primer ejemplo** de fragmento de texto en markdown
 
 > Aquí hay una [página con los códigos más frecuentes](https://en.support.wordprss.com/markdown-quick-reference/) Markdown
