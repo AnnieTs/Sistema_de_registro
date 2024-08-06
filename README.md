@@ -1,7 +1,7 @@
 <h1 align="center">Sistema de Registro</h1>
 Prueba 1 de Sistema de Registro
 
-- Estado del proyecto: En Construcción
+- Estado del proyecto: 🚧 En Construcción 🚧
 
 Nuestro **primer ejemplo** de fragmento de texto en markdown
 
